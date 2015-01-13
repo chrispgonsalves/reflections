@@ -16,3 +16,13 @@ Different language or experimental versions of a project. You don't necessarily 
 How do the diagrams help you visualize the branch structure?
 
 It isn't always easy to keep track of the flow of information and parental tracking with just a command line.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The two branches commits interweave chronologically, and all changes made in one branch affect the other.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging saves a lot of time, but leaves room for error.
